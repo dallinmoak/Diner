@@ -1,5 +1,3 @@
-require_relative "diner.rb"
-
 @menu = {
   :breakfast => {
     :breakfast_main => {
